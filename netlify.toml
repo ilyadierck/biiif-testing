@@ -8,7 +8,7 @@
 
 [build]
   base = ""
-  publish = "collection"
+  publish = "paintings"
   command = "CI= npm run build"
   # Ignore dependabot PRs for deploy previews
   ignore = "./netlify-ignore.sh"
